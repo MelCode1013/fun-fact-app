@@ -15,13 +15,3 @@ First, I created the actual API that my app needs to consume. I added the necess
 ## Lessons Learned:
 
 At first, I had a difficult time differentiating the difference between the API and an app to consume the API. After taking some breaks and doing extra reading, I finally connected the pieces.
-
-## Examples:
-
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
