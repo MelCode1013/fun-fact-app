@@ -4,7 +4,7 @@ This project is an application that consumes my fun fact api and uses HTML, CSS,
 
 **Link to project:** https://randomfunfacts.netlify.app/
 
-![alt tag](https://drive.google.com/file/d/1aqMd2GvqihaAMI81xbO5rSlzPoC18qEH/view?usp=sharing)
+![alt tag](https://www.canva.com/design/DAFMC5vEdIc/view)
 
 ## How It's Made:
 
