@@ -4,7 +4,7 @@ This project is an application that consumes my fun fact api and uses HTML, CSS,
 
 **Link to project:** https://randomfunfacts.netlify.app/
 
-![alt tag](https://www.canva.com/design/DAFMC5vEdIc/view)
+![alt tag](https://imgur.com/a/udhHig5)
 
 ## How It's Made:
 
@@ -12,15 +12,9 @@ This project is an application that consumes my fun fact api and uses HTML, CSS,
 
 First, I created the actual API that my app needs to consume. I added the necessary data to my server.js file and included a conditional so when each button is pressed, a random fact will be generated. Then I created a simple front-end application that fetches my API data and feeds it through the the user side.
 
-## Optimizations
-
-_(optional)_
-
-You don't have to include this section but interviewers _love_ that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
-
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those _whoa this is awesome_ or _fuck yeah I did it!_ moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+At first, I had a difficult time differentiating the difference between the API and an app to consume the API. After taking some breaks and doing extra reading, I finally connected the pieces.
 
 ## Examples:
 
