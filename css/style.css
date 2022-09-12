@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+
+}
+ html {
+    /*background-image: URL("../img/background.jpg");*/
+    background-color: #E29578;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    height: 100vh;
+ }
+
+ /*Mobile :first*/
+
+h1 {
+    margin: 0;
+}
+
+ .main {
+    background-color: #EDF6F9;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px 3px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+ }
+
+ button {
+    color: #005c64;
+    background-color: #83C5BE;
+    text-shadow: .3px .3px black;
+    width: 20%;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+ }
+
+ .buttons {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+ }
