@@ -4,7 +4,7 @@ This project is an application that consumes my fun fact api and uses HTML, CSS,
 
 **Link to project:** https://randomfunfacts.netlify.app/
 
-![alt tag](https://imgur.com/a/udhHig5)
+[Imgur](https://imgur.com/kepxbYk)
 
 ## How It's Made:
 
