@@ -2,15 +2,15 @@
 
 This project is an application that consumes my fun fact api and uses HTML, CSS, and Javascript to display a random fun fact about selected subjects.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://randomfunfacts.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://drive.google.com/file/d/1aqMd2GvqihaAMI81xbO5rSlzPoC18qEH/view?usp=sharing)
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript, API
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+First, I created the actual API that my app needs to consume. I added the necessary data to my server.js file and included a conditional so when each button is pressed, a random fact will be generated. Then I created a simple front-end application that fetches my API data and feeds it through the the user side.
 
 ## Optimizations
 
