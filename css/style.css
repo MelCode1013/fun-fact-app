@@ -16,8 +16,14 @@
 
 h1 {
     margin: 0;
+    font-size: 3rem;
 }
 
+p {
+    font-size: 1.5rem;
+    padding: 5px;
+    line-height: 2rem;
+}
  .main {
     background-color: #EDF6F9;
     border-radius: 10px;
@@ -43,4 +49,32 @@ h1 {
      display: flex;
      flex-direction: row;
      justify-content: space-between;
+ }
+
+ /*desktop*/
+
+ @media screen and (min-width: 720px) {
+    .main {
+            background-color: #EDF6F9;
+            border-radius: 10px;
+            box-shadow: 2px 2px 3px 3px;
+            padding: 3rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-content: center;
+            text-align: center;
+            max-width: 50%;
+            margin: 100px auto;
+
+           
+        }
+       
+    body {
+            height: 100vh;
+    } 
+    
+    button {
+        max-width: 90px;
+    }
  }
